@@ -1,0 +1,12 @@
+{
+  "name": "exercise2",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "katruya",
+  "license": "ISC"
+}

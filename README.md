@@ -20,6 +20,7 @@ learn...
 - Visual Studio Code Features
 - NodeJS
 - git & github
+- ...and so much more!
 ***
 ## Getting Started
 You will need:
@@ -31,6 +32,7 @@ You will need:
 6. A willingness to learn and make mistakes
 
 ### Setup Instructions
+*For detailed setup instructions see my medium article [here]()*
 1. Download & install VSC (Visual Studio Code) with the link above.
 2. Install NodeJS (download from the link above).
 3. Open VSC & install extensions (Press ctrl+shift+x while in VSC and search): Markdown Preview (you will need to read .md files to follow the tutorial) and Live Server for an easy way to see your webapps as you edit them
