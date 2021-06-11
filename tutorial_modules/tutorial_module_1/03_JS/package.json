@@ -1,0 +1,12 @@
+{
+  "name": "basic_javascript",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Are you sure you can't test out of this lesson?",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "katruya",
+  "license": "ISC"
+}
